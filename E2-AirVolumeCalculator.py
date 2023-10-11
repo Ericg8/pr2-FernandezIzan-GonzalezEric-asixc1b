@@ -1,7 +1,7 @@
 """
 Eric González, Izan Fernandez
 11/10/2023
-M03 UF1 A1
+M03 UF1 A2
 Descripció: Exercici 2
 
 """
