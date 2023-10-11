@@ -2,9 +2,11 @@
 Eric González, Izan Fernandez
 11/10/2023
 M03 UF1 A1
-Descripció: Activitat 2
+Descripció: Exercici 1
 
 """
+#Demanar el diàmetre d'una pizza rodona i imprimeix la seva superfície. Pots usar Math.PI per escriure el valor de Pi.
+
 import math
 
 diametre = int(input("Escriu el diametre de la pizza: "))
