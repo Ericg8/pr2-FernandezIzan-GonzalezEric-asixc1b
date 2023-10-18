@@ -15,7 +15,7 @@ numero5 = int(input("Escriu un numero: "))
 
 rang1 = range(numero1, numero2)
 rang2 = range(numero3, numero4)
-if (numero5 in rang1) and  (numero5 in rang2):
+if (numero5 in rang1) and (numero5 in rang2):
     print("true")
 else:
     print("false")
